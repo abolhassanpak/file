@@ -1,0 +1,125 @@
+.jeen{
+  float: left;
+  box-sizing: inherit;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+.icon{
+  float: right;
+  box-sizing: inherit;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  line-height: 1.5;
+}
+.icon-1{
+  display: inline-block;
+  font: normal normal normal 14px / 1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  margin-right: 16px;
+  box-sizing: inherit;
+  -webkit-text-size-adjust: 100%;
+  content: "\f07a";
+}
+.icon-2{
+  display: inline-block;
+  font: normal normal normal 14px / 1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  margin-right: 16px;
+  box-sizing: inherit;
+  -webkit-text-size-adjust: 100%;
+  content: "\f07a";
+}
+.main{
+  padding: 24px 48px;
+    color: #fff;
+    position: absolute;
+    left: 0;
+    top: 0;
+    box-sizing: inherit;
+    display: block;
+    unicode-bidi: isolate;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    margin: 40px;
+}
+.h1-large{
+    font-size: 64px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+a:link, a:visited {
+    border: none;
+    display: inline-block;
+    padding: 12px 24px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: #fff ;
+    background-color: #000 ;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 18px;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  a:hover, a:active {
+    color: #000;
+    background-color: rgb(172, 166, 166);
+    box-sizing: inherit;
+    font-family: "Montserrat", sans-serif;
+  }
+  .h1-small{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    margin: 10px 0;
+    font-size: 36px;
+    box-sizing: inherit;
+    display: block;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    line-height:1.5;
+    -webkit-text-size-adjust: 100%;
+  }
+  #img-1{
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+    box-sizing: inherit;
+  }
